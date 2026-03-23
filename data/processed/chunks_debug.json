@@ -1,0 +1,3722 @@
+[
+  {
+    "chunk_id": "movie_001_identity",
+    "movie_id": "movie_001",
+    "chunk_type": "identity",
+    "text": "Title: Z\nYear: 1969\nDirector: Costa-Gavras\nGenres: Political Thriller, Investigative Thriller\nThemes: authoritarianism, institutional violence, corruption\nSynopsis: A magistrate investigates the assassination of a political activist.",
+    "metadata": {
+      "movie_id": "movie_001",
+      "title": "Z",
+      "year": 1969,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_001_political",
+    "movie_id": "movie_001",
+    "chunk_type": "political",
+    "text": "Title: Z\nYear: 1969\nDirector: Costa-Gavras\nThemes: authoritarianism, institutional violence, corruption\nPolitical relevance: The film examines state repression, institutional cover-ups, and the mechanics of authoritarian power.",
+    "metadata": {
+      "movie_id": "movie_001",
+      "title": "Z",
+      "year": 1969,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_001_aesthetic",
+    "movie_id": "movie_001",
+    "chunk_type": "aesthetic",
+    "text": "Title: Z\nYear: 1969\nDirector: Costa-Gavras\nTone: urgent, tense, documentary-like\nReview: A blistering political thriller with procedural intensity and moral urgency.",
+    "metadata": {
+      "movie_id": "movie_001",
+      "title": "Z",
+      "year": 1969,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "urgent",
+        "tense",
+        "documentary-like"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_001_availability",
+    "movie_id": "movie_001",
+    "chunk_type": "availability",
+    "text": "Title: Z\nAvailability: MUBI (EU) - unknown",
+    "metadata": {
+      "movie_id": "movie_001",
+      "title": "Z",
+      "year": 1969,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_002_identity",
+    "movie_id": "movie_002",
+    "chunk_type": "identity",
+    "text": "Title: The Lives of Others\nYear: 2006\nDirector: Florian Henckel von Donnersmarck\nGenres: Political Thriller, Drama\nThemes: surveillance, authoritarianism, censorship\nSynopsis: An East German secret police officer surveils an artist.",
+    "metadata": {
+      "movie_id": "movie_002",
+      "title": "The Lives of Others",
+      "year": 2006,
+      "director": "Florian Henckel von Donnersmarck",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "surveillance",
+        "authoritarianism",
+        "censorship"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_002_political",
+    "movie_id": "movie_002",
+    "chunk_type": "political",
+    "text": "Title: The Lives of Others\nYear: 2006\nDirector: Florian Henckel von Donnersmarck\nThemes: surveillance, authoritarianism, censorship\nPolitical relevance: The film is a powerful study of surveillance, censorship, and the human cost of totalitarian bureaucracy.",
+    "metadata": {
+      "movie_id": "movie_002",
+      "title": "The Lives of Others",
+      "year": 2006,
+      "director": "Florian Henckel von Donnersmarck",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "surveillance",
+        "authoritarianism",
+        "censorship"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_002_aesthetic",
+    "movie_id": "movie_002",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Lives of Others\nYear: 2006\nDirector: Florian Henckel von Donnersmarck\nTone: bleak, tense, cerebral\nReview: Measured, intelligent, and emotionally devastating.",
+    "metadata": {
+      "movie_id": "movie_002",
+      "title": "The Lives of Others",
+      "year": 2006,
+      "director": "Florian Henckel von Donnersmarck",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "surveillance",
+        "authoritarianism",
+        "censorship"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "bleak",
+        "tense",
+        "cerebral"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_002_availability",
+    "movie_id": "movie_002",
+    "chunk_type": "availability",
+    "text": "Title: The Lives of Others\nAvailability: Prime Video (EU) - unknown",
+    "metadata": {
+      "movie_id": "movie_002",
+      "title": "The Lives of Others",
+      "year": 2006,
+      "director": "Florian Henckel von Donnersmarck",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "surveillance",
+        "authoritarianism",
+        "censorship"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_003_identity",
+    "movie_id": "movie_003",
+    "chunk_type": "identity",
+    "text": "Title: Sorry We Missed You\nYear: 2019\nDirector: Ken Loach\nGenres: Social Drama, Drama\nThemes: labor struggle, class conflict, institutional violence\nSynopsis: A family is pushed to the brink by precarious gig-economy labor.",
+    "metadata": {
+      "movie_id": "movie_003",
+      "title": "Sorry We Missed You",
+      "year": 2019,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "class conflict",
+        "institutional violence"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_003_political",
+    "movie_id": "movie_003",
+    "chunk_type": "political",
+    "text": "Title: Sorry We Missed You\nYear: 2019\nDirector: Ken Loach\nThemes: labor struggle, class conflict, institutional violence\nPolitical relevance: The film critiques labor precarity and the erosion of dignity under modern capitalism.",
+    "metadata": {
+      "movie_id": "movie_003",
+      "title": "Sorry We Missed You",
+      "year": 2019,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "class conflict",
+        "institutional violence"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_003_aesthetic",
+    "movie_id": "movie_003",
+    "chunk_type": "aesthetic",
+    "text": "Title: Sorry We Missed You\nYear: 2019\nDirector: Ken Loach\nTone: raw, bleak, urgent\nReview: A devastating social drama that turns everyday labor into political tragedy.",
+    "metadata": {
+      "movie_id": "movie_003",
+      "title": "Sorry We Missed You",
+      "year": 2019,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "class conflict",
+        "institutional violence"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "bleak",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_003_availability",
+    "movie_id": "movie_003",
+    "chunk_type": "availability",
+    "text": "Title: Sorry We Missed You\nAvailability: Cinobo (GR) - unknown",
+    "metadata": {
+      "movie_id": "movie_003",
+      "title": "Sorry We Missed You",
+      "year": 2019,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "class conflict",
+        "institutional violence"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_004_identity",
+    "movie_id": "movie_004",
+    "chunk_type": "identity",
+    "text": "Title: The Battle of Algiers\nYear: 1966\nDirector: Gillo Pontecorvo\nGenres: War Drama, Political Thriller\nThemes: colonialism, resistance, institutional violence\nSynopsis: The Algerian struggle for independence from French colonial rule.",
+    "metadata": {
+      "movie_id": "movie_004",
+      "title": "The Battle of Algiers",
+      "year": 1966,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "War Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_004_political",
+    "movie_id": "movie_004",
+    "chunk_type": "political",
+    "text": "Title: The Battle of Algiers\nYear: 1966\nDirector: Gillo Pontecorvo\nThemes: colonialism, resistance, institutional violence\nPolitical relevance: A foundational film for understanding urban insurgency and anticolonial struggle.",
+    "metadata": {
+      "movie_id": "movie_004",
+      "title": "The Battle of Algiers",
+      "year": 1966,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "War Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_004_aesthetic",
+    "movie_id": "movie_004",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Battle of Algiers\nYear: 1966\nDirector: Gillo Pontecorvo\nTone: documentary-like, urgent, raw\nReview: One of the most influential political films ever made.",
+    "metadata": {
+      "movie_id": "movie_004",
+      "title": "The Battle of Algiers",
+      "year": 1966,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "War Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "documentary-like",
+        "urgent",
+        "raw"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_004_availability",
+    "movie_id": "movie_004",
+    "chunk_type": "availability",
+    "text": "Title: The Battle of Algiers\nAvailability: MUBI (EU) - available",
+    "metadata": {
+      "movie_id": "movie_004",
+      "title": "The Battle of Algiers",
+      "year": 1966,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "War Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_005_identity",
+    "movie_id": "movie_005",
+    "chunk_type": "identity",
+    "text": "Title: Parasite\nYear: 2019\nDirector: Bong Joon-ho\nGenres: Social Drama, Investigative Thriller\nThemes: class conflict, corruption, institutional violence\nSynopsis: A poor family schemes to work for a wealthy household.",
+    "metadata": {
+      "movie_id": "movie_005",
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon-ho",
+      "genres": [
+        "Social Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "class conflict",
+        "corruption",
+        "institutional violence"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_005_political",
+    "movie_id": "movie_005",
+    "chunk_type": "political",
+    "text": "Title: Parasite\nYear: 2019\nDirector: Bong Joon-ho\nThemes: class conflict, corruption, institutional violence\nPolitical relevance: A sharp critique of modern class stratification and capitalist disparity.",
+    "metadata": {
+      "movie_id": "movie_005",
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon-ho",
+      "genres": [
+        "Social Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "class conflict",
+        "corruption",
+        "institutional violence"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_005_aesthetic",
+    "movie_id": "movie_005",
+    "chunk_type": "aesthetic",
+    "text": "Title: Parasite\nYear: 2019\nDirector: Bong Joon-ho\nTone: tense, confrontational, bleak\nReview: A genre-bending masterpiece on global inequality.",
+    "metadata": {
+      "movie_id": "movie_005",
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon-ho",
+      "genres": [
+        "Social Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "class conflict",
+        "corruption",
+        "institutional violence"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "tense",
+        "confrontational",
+        "bleak"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_005_availability",
+    "movie_id": "movie_005",
+    "chunk_type": "availability",
+    "text": "Title: Parasite\nAvailability: Netflix (Global) - available",
+    "metadata": {
+      "movie_id": "movie_005",
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon-ho",
+      "genres": [
+        "Social Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "class conflict",
+        "corruption",
+        "institutional violence"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_006_identity",
+    "movie_id": "movie_006",
+    "chunk_type": "identity",
+    "text": "Title: I, Daniel Blake\nYear: 2016\nDirector: Ken Loach\nGenres: Social Drama, Drama\nThemes: labor struggle, institutional violence, class conflict\nSynopsis: A carpenter fights the dehumanizing welfare system.",
+    "metadata": {
+      "movie_id": "movie_006",
+      "title": "I, Daniel Blake",
+      "year": 2016,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_006_political",
+    "movie_id": "movie_006",
+    "chunk_type": "political",
+    "text": "Title: I, Daniel Blake\nYear: 2016\nDirector: Ken Loach\nThemes: labor struggle, institutional violence, class conflict\nPolitical relevance: An indictment of austerity and the erosion of the social safety net.",
+    "metadata": {
+      "movie_id": "movie_006",
+      "title": "I, Daniel Blake",
+      "year": 2016,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_006_aesthetic",
+    "movie_id": "movie_006",
+    "chunk_type": "aesthetic",
+    "text": "Title: I, Daniel Blake\nYear: 2016\nDirector: Ken Loach\nTone: raw, bleak, urgent\nReview: Quietly devastating and deeply human.",
+    "metadata": {
+      "movie_id": "movie_006",
+      "title": "I, Daniel Blake",
+      "year": 2016,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "bleak",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_006_availability",
+    "movie_id": "movie_006",
+    "chunk_type": "availability",
+    "text": "Title: I, Daniel Blake\nAvailability: Cinobo (GR) - available",
+    "metadata": {
+      "movie_id": "movie_006",
+      "title": "I, Daniel Blake",
+      "year": 2016,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_007_identity",
+    "movie_id": "movie_007",
+    "chunk_type": "identity",
+    "text": "Title: All the President's Men\nYear: 1976\nDirector: Alan J. Pakula\nGenres: Investigative Thriller, Historical Drama\nThemes: corruption, media manipulation, protest movements\nSynopsis: Two reporters investigate the Watergate scandal.",
+    "metadata": {
+      "movie_id": "movie_007",
+      "title": "All the President's Men",
+      "year": 1976,
+      "director": "Alan J. Pakula",
+      "genres": [
+        "Investigative Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "corruption",
+        "media manipulation",
+        "protest movements"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_007_political",
+    "movie_id": "movie_007",
+    "chunk_type": "political",
+    "text": "Title: All the President's Men\nYear: 1976\nDirector: Alan J. Pakula\nThemes: corruption, media manipulation, protest movements\nPolitical relevance: The definitive film about the power of the press and political accountability.",
+    "metadata": {
+      "movie_id": "movie_007",
+      "title": "All the President's Men",
+      "year": 1976,
+      "director": "Alan J. Pakula",
+      "genres": [
+        "Investigative Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "corruption",
+        "media manipulation",
+        "protest movements"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_007_aesthetic",
+    "movie_id": "movie_007",
+    "chunk_type": "aesthetic",
+    "text": "Title: All the President's Men\nYear: 1976\nDirector: Alan J. Pakula\nTone: tense, cerebral, documentary-like\nReview: A masterclass in procedural tension.",
+    "metadata": {
+      "movie_id": "movie_007",
+      "title": "All the President's Men",
+      "year": 1976,
+      "director": "Alan J. Pakula",
+      "genres": [
+        "Investigative Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "corruption",
+        "media manipulation",
+        "protest movements"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "tense",
+        "cerebral",
+        "documentary-like"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_007_availability",
+    "movie_id": "movie_007",
+    "chunk_type": "availability",
+    "text": "Title: All the President's Men\nAvailability: HBO Max (US) - available",
+    "metadata": {
+      "movie_id": "movie_007",
+      "title": "All the President's Men",
+      "year": 1976,
+      "director": "Alan J. Pakula",
+      "genres": [
+        "Investigative Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "corruption",
+        "media manipulation",
+        "protest movements"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_008_identity",
+    "movie_id": "movie_008",
+    "chunk_type": "identity",
+    "text": "Title: La Haine\nYear: 1995\nDirector: Mathieu Kassovitz\nGenres: Social Drama, Drama\nThemes: institutional violence, protest movements, class conflict\nSynopsis: Three young men navigate a violent Paris suburb after a riot.",
+    "metadata": {
+      "movie_id": "movie_008",
+      "title": "La Haine",
+      "year": 1995,
+      "director": "Mathieu Kassovitz",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_008_political",
+    "movie_id": "movie_008",
+    "chunk_type": "political",
+    "text": "Title: La Haine\nYear: 1995\nDirector: Mathieu Kassovitz\nThemes: institutional violence, protest movements, class conflict\nPolitical relevance: A prophetic look at social marginalization in modern France.",
+    "metadata": {
+      "movie_id": "movie_008",
+      "title": "La Haine",
+      "year": 1995,
+      "director": "Mathieu Kassovitz",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_008_aesthetic",
+    "movie_id": "movie_008",
+    "chunk_type": "aesthetic",
+    "text": "Title: La Haine\nYear: 1995\nDirector: Mathieu Kassovitz\nTone: raw, urgent, confrontational\nReview: Taut, stylish, and socially explosive.",
+    "metadata": {
+      "movie_id": "movie_008",
+      "title": "La Haine",
+      "year": 1995,
+      "director": "Mathieu Kassovitz",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "urgent",
+        "confrontational"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_008_availability",
+    "movie_id": "movie_008",
+    "chunk_type": "availability",
+    "text": "Title: La Haine\nAvailability: BFI Player (UK) - available",
+    "metadata": {
+      "movie_id": "movie_008",
+      "title": "La Haine",
+      "year": 1995,
+      "director": "Mathieu Kassovitz",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_009_identity",
+    "movie_id": "movie_009",
+    "chunk_type": "identity",
+    "text": "Title: Missing\nYear: 1982\nDirector: Costa-Gavras\nGenres: Political Thriller, Historical Drama\nThemes: political imprisonment, institutional violence, corruption\nSynopsis: A father searches for his son during the 1973 Chilean coup.",
+    "metadata": {
+      "movie_id": "movie_009",
+      "title": "Missing",
+      "year": 1982,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_009_political",
+    "movie_id": "movie_009",
+    "chunk_type": "political",
+    "text": "Title: Missing\nYear: 1982\nDirector: Costa-Gavras\nThemes: political imprisonment, institutional violence, corruption\nPolitical relevance: Exposes the dark side of Cold War foreign policy and state-sponsored disappearances.",
+    "metadata": {
+      "movie_id": "movie_009",
+      "title": "Missing",
+      "year": 1982,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_009_aesthetic",
+    "movie_id": "movie_009",
+    "chunk_type": "aesthetic",
+    "text": "Title: Missing\nYear: 1982\nDirector: Costa-Gavras\nTone: paranoid, urgent, bleak\nReview: A chilling and precise political indictment.",
+    "metadata": {
+      "movie_id": "movie_009",
+      "title": "Missing",
+      "year": 1982,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "paranoid",
+        "urgent",
+        "bleak"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_009_availability",
+    "movie_id": "movie_009",
+    "chunk_type": "availability",
+    "text": "Title: Missing\nAvailability: Apple TV (Global) - available",
+    "metadata": {
+      "movie_id": "movie_009",
+      "title": "Missing",
+      "year": 1982,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_010_identity",
+    "movie_id": "movie_010",
+    "chunk_type": "identity",
+    "text": "Title: The Great Dictator\nYear: 1940\nDirector: Charlie Chaplin\nGenres: Drama, Arthouse\nThemes: authoritarianism, propaganda, anti-war\nSynopsis: A Jewish barber is mistaken for a fascist dictator.",
+    "metadata": {
+      "movie_id": "movie_010",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "director": "Charlie Chaplin",
+      "genres": [
+        "Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "propaganda",
+        "anti-war"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_010_political",
+    "movie_id": "movie_010",
+    "chunk_type": "political",
+    "text": "Title: The Great Dictator\nYear: 1940\nDirector: Charlie Chaplin\nThemes: authoritarianism, propaganda, anti-war\nPolitical relevance: A courageous anti-fascist statement released during the height of the Nazi threat.",
+    "metadata": {
+      "movie_id": "movie_010",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "director": "Charlie Chaplin",
+      "genres": [
+        "Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "propaganda",
+        "anti-war"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_010_aesthetic",
+    "movie_id": "movie_010",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Great Dictator\nYear: 1940\nDirector: Charlie Chaplin\nTone: confrontational, poetic, urgent\nReview: A timeless masterpiece of humanism.",
+    "metadata": {
+      "movie_id": "movie_010",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "director": "Charlie Chaplin",
+      "genres": [
+        "Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "propaganda",
+        "anti-war"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "confrontational",
+        "poetic",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_010_availability",
+    "movie_id": "movie_010",
+    "chunk_type": "availability",
+    "text": "Title: The Great Dictator\nAvailability: Criterion Channel (US) - available",
+    "metadata": {
+      "movie_id": "movie_010",
+      "title": "The Great Dictator",
+      "year": 1940,
+      "director": "Charlie Chaplin",
+      "genres": [
+        "Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "propaganda",
+        "anti-war"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_011_identity",
+    "movie_id": "movie_011",
+    "chunk_type": "identity",
+    "text": "Title: Quo Vadis, Aida?\nYear: 2020\nDirector: Jasmila Žbanić\nGenres: War Drama, Historical Drama\nThemes: institutional violence, protest movements, resistance\nSynopsis: A UN translator tries to save her family during the Srebrenica massacre.",
+    "metadata": {
+      "movie_id": "movie_011",
+      "title": "Quo Vadis, Aida?",
+      "year": 2020,
+      "director": "Jasmila Žbanić",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_011_political",
+    "movie_id": "movie_011",
+    "chunk_type": "political",
+    "text": "Title: Quo Vadis, Aida?\nYear: 2020\nDirector: Jasmila Žbanić\nThemes: institutional violence, protest movements, resistance\nPolitical relevance: A harrowing examination of genocide and the failure of international institutions.",
+    "metadata": {
+      "movie_id": "movie_011",
+      "title": "Quo Vadis, Aida?",
+      "year": 2020,
+      "director": "Jasmila Žbanić",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_011_aesthetic",
+    "movie_id": "movie_011",
+    "chunk_type": "aesthetic",
+    "text": "Title: Quo Vadis, Aida?\nYear: 2020\nDirector: Jasmila Žbanić\nTone: urgent, bleak, raw\nReview: A gut-punch of a film that demands to be seen.",
+    "metadata": {
+      "movie_id": "movie_011",
+      "title": "Quo Vadis, Aida?",
+      "year": 2020,
+      "director": "Jasmila Žbanić",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "urgent",
+        "bleak",
+        "raw"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_011_availability",
+    "movie_id": "movie_011",
+    "chunk_type": "availability",
+    "text": "Title: Quo Vadis, Aida?\nAvailability: Cinobo (GR) - available",
+    "metadata": {
+      "movie_id": "movie_011",
+      "title": "Quo Vadis, Aida?",
+      "year": 2020,
+      "director": "Jasmila Žbanić",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "protest movements",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_012_identity",
+    "movie_id": "movie_012",
+    "chunk_type": "identity",
+    "text": "Title: Do the Right Thing\nYear: 1989\nDirector: Spike Lee\nGenres: Social Drama, Arthouse\nThemes: class conflict, institutional violence, protest movements\nSynopsis: Racial tensions explode in a Brooklyn neighborhood.",
+    "metadata": {
+      "movie_id": "movie_012",
+      "title": "Do the Right Thing",
+      "year": 1989,
+      "director": "Spike Lee",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_012_political",
+    "movie_id": "movie_012",
+    "chunk_type": "political",
+    "text": "Title: Do the Right Thing\nYear: 1989\nDirector: Spike Lee\nThemes: class conflict, institutional violence, protest movements\nPolitical relevance: A landmark exploration of systemic racism and civil disobedience in America.",
+    "metadata": {
+      "movie_id": "movie_012",
+      "title": "Do the Right Thing",
+      "year": 1989,
+      "director": "Spike Lee",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_012_aesthetic",
+    "movie_id": "movie_012",
+    "chunk_type": "aesthetic",
+    "text": "Title: Do the Right Thing\nYear: 1989\nDirector: Spike Lee\nTone: confrontational, urgent, raw\nReview: A masterpiece of color, sound, and social fury.",
+    "metadata": {
+      "movie_id": "movie_012",
+      "title": "Do the Right Thing",
+      "year": 1989,
+      "director": "Spike Lee",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "confrontational",
+        "urgent",
+        "raw"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_012_availability",
+    "movie_id": "movie_012",
+    "chunk_type": "availability",
+    "text": "Title: Do the Right Thing\nAvailability: Prime Video (US) - available",
+    "metadata": {
+      "movie_id": "movie_012",
+      "title": "Do the Right Thing",
+      "year": 1989,
+      "director": "Spike Lee",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_013_identity",
+    "movie_id": "movie_013",
+    "chunk_type": "identity",
+    "text": "Title: The Conversation\nYear: 1974\nDirector: Francis Ford Coppola\nGenres: Investigative Thriller, Political Thriller\nThemes: surveillance, censorship, corruption\nSynopsis: A surveillance expert uncovers a potential murder.",
+    "metadata": {
+      "movie_id": "movie_013",
+      "title": "The Conversation",
+      "year": 1974,
+      "director": "Francis Ford Coppola",
+      "genres": [
+        "Investigative Thriller",
+        "Political Thriller"
+      ],
+      "themes": [
+        "surveillance",
+        "censorship",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_013_political",
+    "movie_id": "movie_013",
+    "chunk_type": "political",
+    "text": "Title: The Conversation\nYear: 1974\nDirector: Francis Ford Coppola\nThemes: surveillance, censorship, corruption\nPolitical relevance: Reflects the post-Watergate era's paranoia regarding private and state surveillance.",
+    "metadata": {
+      "movie_id": "movie_013",
+      "title": "The Conversation",
+      "year": 1974,
+      "director": "Francis Ford Coppola",
+      "genres": [
+        "Investigative Thriller",
+        "Political Thriller"
+      ],
+      "themes": [
+        "surveillance",
+        "censorship",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_013_aesthetic",
+    "movie_id": "movie_013",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Conversation\nYear: 1974\nDirector: Francis Ford Coppola\nTone: paranoid, cerebral, tense\nReview: A chilling masterpiece of technical and psychological precision.",
+    "metadata": {
+      "movie_id": "movie_013",
+      "title": "The Conversation",
+      "year": 1974,
+      "director": "Francis Ford Coppola",
+      "genres": [
+        "Investigative Thriller",
+        "Political Thriller"
+      ],
+      "themes": [
+        "surveillance",
+        "censorship",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "paranoid",
+        "cerebral",
+        "tense"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_013_availability",
+    "movie_id": "movie_013",
+    "chunk_type": "availability",
+    "text": "Title: The Conversation\nAvailability: Prime Video (Global) - available",
+    "metadata": {
+      "movie_id": "movie_013",
+      "title": "The Conversation",
+      "year": 1974,
+      "director": "Francis Ford Coppola",
+      "genres": [
+        "Investigative Thriller",
+        "Political Thriller"
+      ],
+      "themes": [
+        "surveillance",
+        "censorship",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_014_identity",
+    "movie_id": "movie_014",
+    "chunk_type": "identity",
+    "text": "Title: No\nYear: 2012\nDirector: Pablo Larraín\nGenres: Historical Drama, Investigative Thriller\nThemes: media manipulation, propaganda, resistance\nSynopsis: An ad executive fights to end Pinochet's dictatorship.",
+    "metadata": {
+      "movie_id": "movie_014",
+      "title": "No",
+      "year": 2012,
+      "director": "Pablo Larraín",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "media manipulation",
+        "propaganda",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_014_political",
+    "movie_id": "movie_014",
+    "chunk_type": "political",
+    "text": "Title: No\nYear: 2012\nDirector: Pablo Larraín\nThemes: media manipulation, propaganda, resistance\nPolitical relevance: Explores how marketing and media were used to restore democracy.",
+    "metadata": {
+      "movie_id": "movie_014",
+      "title": "No",
+      "year": 2012,
+      "director": "Pablo Larraín",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "media manipulation",
+        "propaganda",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_014_aesthetic",
+    "movie_id": "movie_014",
+    "chunk_type": "aesthetic",
+    "text": "Title: No\nYear: 2012\nDirector: Pablo Larraín\nTone: documentary-like, cerebral, meditative\nReview: Smart, original, and historically fascinating.",
+    "metadata": {
+      "movie_id": "movie_014",
+      "title": "No",
+      "year": 2012,
+      "director": "Pablo Larraín",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "media manipulation",
+        "propaganda",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "documentary-like",
+        "cerebral",
+        "meditative"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_014_availability",
+    "movie_id": "movie_014",
+    "chunk_type": "availability",
+    "text": "Title: No\nAvailability: Cinobo (GR) - available",
+    "metadata": {
+      "movie_id": "movie_014",
+      "title": "No",
+      "year": 2012,
+      "director": "Pablo Larraín",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "media manipulation",
+        "propaganda",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_015_identity",
+    "movie_id": "movie_015",
+    "chunk_type": "identity",
+    "text": "Title: Children of Men\nYear: 2006\nDirector: Alfonso Cuarón\nGenres: Political Thriller, Arthouse\nThemes: authoritarianism, migration, institutional violence\nSynopsis: In a world of infertility, a man must protect a pregnant refugee.",
+    "metadata": {
+      "movie_id": "movie_015",
+      "title": "Children of Men",
+      "year": 2006,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Political Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "migration",
+        "institutional violence"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_015_political",
+    "movie_id": "movie_015",
+    "chunk_type": "political",
+    "text": "Title: Children of Men\nYear: 2006\nDirector: Alfonso Cuarón\nThemes: authoritarianism, migration, institutional violence\nPolitical relevance: A powerful commentary on xenophobia and modern border politics.",
+    "metadata": {
+      "movie_id": "movie_015",
+      "title": "Children of Men",
+      "year": 2006,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Political Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "migration",
+        "institutional violence"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_015_aesthetic",
+    "movie_id": "movie_015",
+    "chunk_type": "aesthetic",
+    "text": "Title: Children of Men\nYear: 2006\nDirector: Alfonso Cuarón\nTone: visceral, urgent, bleak\nReview: A technical marvel with a profound social message.",
+    "metadata": {
+      "movie_id": "movie_015",
+      "title": "Children of Men",
+      "year": 2006,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Political Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "migration",
+        "institutional violence"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "visceral",
+        "urgent",
+        "bleak"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_015_availability",
+    "movie_id": "movie_015",
+    "chunk_type": "availability",
+    "text": "Title: Children of Men\nAvailability: Netflix (EU) - available",
+    "metadata": {
+      "movie_id": "movie_015",
+      "title": "Children of Men",
+      "year": 2006,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Political Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "authoritarianism",
+        "migration",
+        "institutional violence"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_016_identity",
+    "movie_id": "movie_016",
+    "chunk_type": "identity",
+    "text": "Title: The Trial of the Chicago 7\nYear: 2020\nDirector: Aaron Sorkin\nGenres: Historical Drama, Investigative Thriller\nThemes: protest movements, institutional violence, corruption\nSynopsis: A group of protesters face trial after the 1968 convention.",
+    "metadata": {
+      "movie_id": "movie_016",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020,
+      "director": "Aaron Sorkin",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_016_political",
+    "movie_id": "movie_016",
+    "chunk_type": "political",
+    "text": "Title: The Trial of the Chicago 7\nYear: 2020\nDirector: Aaron Sorkin\nThemes: protest movements, institutional violence, corruption\nPolitical relevance: Examines the right to dissent and the weaponization of the judicial system.",
+    "metadata": {
+      "movie_id": "movie_016",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020,
+      "director": "Aaron Sorkin",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_016_aesthetic",
+    "movie_id": "movie_016",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Trial of the Chicago 7\nYear: 2020\nDirector: Aaron Sorkin\nTone: tense, confrontational, urgent\nReview: A sharp, energetic look at political justice.",
+    "metadata": {
+      "movie_id": "movie_016",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020,
+      "director": "Aaron Sorkin",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "tense",
+        "confrontational",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_016_availability",
+    "movie_id": "movie_016",
+    "chunk_type": "availability",
+    "text": "Title: The Trial of the Chicago 7\nAvailability: Netflix (Global) - available",
+    "metadata": {
+      "movie_id": "movie_016",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020,
+      "director": "Aaron Sorkin",
+      "genres": [
+        "Historical Drama",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_017_identity",
+    "movie_id": "movie_017",
+    "chunk_type": "identity",
+    "text": "Title: Judas and the Black Messiah\nYear: 2021\nDirector: Shaka King\nGenres: Historical Drama, Political Thriller\nThemes: resistance, surveillance, protest movements\nSynopsis: The betrayal of Black Panther leader Fred Hampton.",
+    "metadata": {
+      "movie_id": "movie_017",
+      "title": "Judas and the Black Messiah",
+      "year": 2021,
+      "director": "Shaka King",
+      "genres": [
+        "Historical Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "resistance",
+        "surveillance",
+        "protest movements"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_017_political",
+    "movie_id": "movie_017",
+    "chunk_type": "political",
+    "text": "Title: Judas and the Black Messiah\nYear: 2021\nDirector: Shaka King\nThemes: resistance, surveillance, protest movements\nPolitical relevance: A critique of state surveillance and the suppression of radical social movements.",
+    "metadata": {
+      "movie_id": "movie_017",
+      "title": "Judas and the Black Messiah",
+      "year": 2021,
+      "director": "Shaka King",
+      "genres": [
+        "Historical Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "resistance",
+        "surveillance",
+        "protest movements"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_017_aesthetic",
+    "movie_id": "movie_017",
+    "chunk_type": "aesthetic",
+    "text": "Title: Judas and the Black Messiah\nYear: 2021\nDirector: Shaka King\nTone: intense, raw, urgent\nReview: Electrifying and profoundly relevant.",
+    "metadata": {
+      "movie_id": "movie_017",
+      "title": "Judas and the Black Messiah",
+      "year": 2021,
+      "director": "Shaka King",
+      "genres": [
+        "Historical Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "resistance",
+        "surveillance",
+        "protest movements"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "intense",
+        "raw",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_017_availability",
+    "movie_id": "movie_017",
+    "chunk_type": "availability",
+    "text": "Title: Judas and the Black Messiah\nAvailability: HBO Max (US) - available",
+    "metadata": {
+      "movie_id": "movie_017",
+      "title": "Judas and the Black Messiah",
+      "year": 2021,
+      "director": "Shaka King",
+      "genres": [
+        "Historical Drama",
+        "Political Thriller"
+      ],
+      "themes": [
+        "resistance",
+        "surveillance",
+        "protest movements"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_018_identity",
+    "movie_id": "movie_018",
+    "chunk_type": "identity",
+    "text": "Title: State of Siege\nYear: 1972\nDirector: Costa-Gavras\nGenres: Political Thriller, Drama\nThemes: colonialism, institutional violence, resistance\nSynopsis: A USAID official is kidnapped in Uruguay.",
+    "metadata": {
+      "movie_id": "movie_018",
+      "title": "State of Siege",
+      "year": 1972,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_018_political",
+    "movie_id": "movie_018",
+    "chunk_type": "political",
+    "text": "Title: State of Siege\nYear: 1972\nDirector: Costa-Gavras\nThemes: colonialism, institutional violence, resistance\nPolitical relevance: A stark look at Cold War interventionism and urban guerrilla ethics.",
+    "metadata": {
+      "movie_id": "movie_018",
+      "title": "State of Siege",
+      "year": 1972,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_018_aesthetic",
+    "movie_id": "movie_018",
+    "chunk_type": "aesthetic",
+    "text": "Title: State of Siege\nYear: 1972\nDirector: Costa-Gavras\nTone: cerebral, tense, documentary-like\nReview: A provocative and uncompromising political statement.",
+    "metadata": {
+      "movie_id": "movie_018",
+      "title": "State of Siege",
+      "year": 1972,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "cerebral",
+        "tense",
+        "documentary-like"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_018_availability",
+    "movie_id": "movie_018",
+    "chunk_type": "availability",
+    "text": "Title: State of Siege\nAvailability: Criterion Channel (US) - available",
+    "metadata": {
+      "movie_id": "movie_018",
+      "title": "State of Siege",
+      "year": 1972,
+      "director": "Costa-Gavras",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_019_identity",
+    "movie_id": "movie_019",
+    "chunk_type": "identity",
+    "text": "Title: Persépolis\nYear: 2007\nDirector: Marjane Satrapi\nGenres: Arthouse, Historical Drama\nThemes: authoritarianism, censorship, resistance\nSynopsis: A young girl grows up during the Iranian Revolution.",
+    "metadata": {
+      "movie_id": "movie_019",
+      "title": "Persépolis",
+      "year": 2007,
+      "director": "Marjane Satrapi",
+      "genres": [
+        "Arthouse",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "censorship",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_019_political",
+    "movie_id": "movie_019",
+    "chunk_type": "political",
+    "text": "Title: Persépolis\nYear: 2007\nDirector: Marjane Satrapi\nThemes: authoritarianism, censorship, resistance\nPolitical relevance: Provides a personal perspective on theocratic rule and exile.",
+    "metadata": {
+      "movie_id": "movie_019",
+      "title": "Persépolis",
+      "year": 2007,
+      "director": "Marjane Satrapi",
+      "genres": [
+        "Arthouse",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "censorship",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_019_aesthetic",
+    "movie_id": "movie_019",
+    "chunk_type": "aesthetic",
+    "text": "Title: Persépolis\nYear: 2007\nDirector: Marjane Satrapi\nTone: poetic, raw, meditative\nReview: Brilliant, moving, and visually unique.",
+    "metadata": {
+      "movie_id": "movie_019",
+      "title": "Persépolis",
+      "year": 2007,
+      "director": "Marjane Satrapi",
+      "genres": [
+        "Arthouse",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "censorship",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "poetic",
+        "raw",
+        "meditative"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_019_availability",
+    "movie_id": "movie_019",
+    "chunk_type": "availability",
+    "text": "Title: Persépolis\nAvailability: MUBI (EU) - available",
+    "metadata": {
+      "movie_id": "movie_019",
+      "title": "Persépolis",
+      "year": 2007,
+      "director": "Marjane Satrapi",
+      "genres": [
+        "Arthouse",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "censorship",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_020_identity",
+    "movie_id": "movie_020",
+    "chunk_type": "identity",
+    "text": "Title: Dr. Strangelove\nYear: 1964\nDirector: Stanley Kubrick\nGenres: Arthouse, War Drama\nThemes: anti-war, propaganda, authoritarianism\nSynopsis: An insane general triggers a nuclear apocalypse.",
+    "metadata": {
+      "movie_id": "movie_020",
+      "title": "Dr. Strangelove",
+      "year": 1964,
+      "director": "Stanley Kubrick",
+      "genres": [
+        "Arthouse",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "propaganda",
+        "authoritarianism"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_020_political",
+    "movie_id": "movie_020",
+    "chunk_type": "political",
+    "text": "Title: Dr. Strangelove\nYear: 1964\nDirector: Stanley Kubrick\nThemes: anti-war, propaganda, authoritarianism\nPolitical relevance: The ultimate critique of the madness behind the concept of Mutual Assured Destruction.",
+    "metadata": {
+      "movie_id": "movie_020",
+      "title": "Dr. Strangelove",
+      "year": 1964,
+      "director": "Stanley Kubrick",
+      "genres": [
+        "Arthouse",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "propaganda",
+        "authoritarianism"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_020_aesthetic",
+    "movie_id": "movie_020",
+    "chunk_type": "aesthetic",
+    "text": "Title: Dr. Strangelove\nYear: 1964\nDirector: Stanley Kubrick\nTone: paranoid, confrontational, cerebral\nReview: Terrifyingly funny and still incredibly relevant.",
+    "metadata": {
+      "movie_id": "movie_020",
+      "title": "Dr. Strangelove",
+      "year": 1964,
+      "director": "Stanley Kubrick",
+      "genres": [
+        "Arthouse",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "propaganda",
+        "authoritarianism"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "paranoid",
+        "confrontational",
+        "cerebral"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_020_availability",
+    "movie_id": "movie_020",
+    "chunk_type": "availability",
+    "text": "Title: Dr. Strangelove\nAvailability: Apple TV (Global) - available",
+    "metadata": {
+      "movie_id": "movie_020",
+      "title": "Dr. Strangelove",
+      "year": 1964,
+      "director": "Stanley Kubrick",
+      "genres": [
+        "Arthouse",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "propaganda",
+        "authoritarianism"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_021_identity",
+    "movie_id": "movie_021",
+    "chunk_type": "identity",
+    "text": "Title: Capernaum\nYear: 2018\nDirector: Nadine Labaki\nGenres: Social Drama, Drama\nThemes: migration, institutional violence, class conflict\nSynopsis: A boy sues his parents for giving him life.",
+    "metadata": {
+      "movie_id": "movie_021",
+      "title": "Capernaum",
+      "year": 2018,
+      "director": "Nadine Labaki",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "migration",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_021_political",
+    "movie_id": "movie_021",
+    "chunk_type": "political",
+    "text": "Title: Capernaum\nYear: 2018\nDirector: Nadine Labaki\nThemes: migration, institutional violence, class conflict\nPolitical relevance: A heart-wrenching look at the plight of undocumented children and extreme poverty.",
+    "metadata": {
+      "movie_id": "movie_021",
+      "title": "Capernaum",
+      "year": 2018,
+      "director": "Nadine Labaki",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "migration",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_021_aesthetic",
+    "movie_id": "movie_021",
+    "chunk_type": "aesthetic",
+    "text": "Title: Capernaum\nYear: 2018\nDirector: Nadine Labaki\nTone: raw, bleak, urgent\nReview: Emotional, powerful, and deeply necessary.",
+    "metadata": {
+      "movie_id": "movie_021",
+      "title": "Capernaum",
+      "year": 2018,
+      "director": "Nadine Labaki",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "migration",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "bleak",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_021_availability",
+    "movie_id": "movie_021",
+    "chunk_type": "availability",
+    "text": "Title: Capernaum\nAvailability: Cinobo (GR) - available",
+    "metadata": {
+      "movie_id": "movie_021",
+      "title": "Capernaum",
+      "year": 2018,
+      "director": "Nadine Labaki",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "migration",
+        "institutional violence",
+        "class conflict"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_022_identity",
+    "movie_id": "movie_022",
+    "chunk_type": "identity",
+    "text": "Title: Waltz with Bashir\nYear: 2008\nDirector: Ari Folman\nGenres: Documentary, War Drama\nThemes: anti-war, institutional violence, resistance\nSynopsis: An animated search for lost memories of the Lebanon War.",
+    "metadata": {
+      "movie_id": "movie_022",
+      "title": "Waltz with Bashir",
+      "year": 2008,
+      "director": "Ari Folman",
+      "genres": [
+        "Documentary",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_022_political",
+    "movie_id": "movie_022",
+    "chunk_type": "political",
+    "text": "Title: Waltz with Bashir\nYear: 2008\nDirector: Ari Folman\nThemes: anti-war, institutional violence, resistance\nPolitical relevance: Explores collective guilt and the trauma of war through a revolutionary format.",
+    "metadata": {
+      "movie_id": "movie_022",
+      "title": "Waltz with Bashir",
+      "year": 2008,
+      "director": "Ari Folman",
+      "genres": [
+        "Documentary",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_022_aesthetic",
+    "movie_id": "movie_022",
+    "chunk_type": "aesthetic",
+    "text": "Title: Waltz with Bashir\nYear: 2008\nDirector: Ari Folman\nTone: meditative, bleak, poetic\nReview: A haunting and visionary documentary.",
+    "metadata": {
+      "movie_id": "movie_022",
+      "title": "Waltz with Bashir",
+      "year": 2008,
+      "director": "Ari Folman",
+      "genres": [
+        "Documentary",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "meditative",
+        "bleak",
+        "poetic"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_022_availability",
+    "movie_id": "movie_022",
+    "chunk_type": "availability",
+    "text": "Title: Waltz with Bashir\nAvailability: MUBI (UK) - available",
+    "metadata": {
+      "movie_id": "movie_022",
+      "title": "Waltz with Bashir",
+      "year": 2008,
+      "director": "Ari Folman",
+      "genres": [
+        "Documentary",
+        "War Drama"
+      ],
+      "themes": [
+        "anti-war",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_023_identity",
+    "movie_id": "movie_023",
+    "chunk_type": "identity",
+    "text": "Title: Land and Freedom\nYear: 1995\nDirector: Ken Loach\nGenres: War Drama, Historical Drama\nThemes: resistance, protest movements, class conflict\nSynopsis: An idealist fights in the Spanish Civil War.",
+    "metadata": {
+      "movie_id": "movie_023",
+      "title": "Land and Freedom",
+      "year": 1995,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "resistance",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_023_political",
+    "movie_id": "movie_023",
+    "chunk_type": "political",
+    "text": "Title: Land and Freedom\nYear: 1995\nDirector: Ken Loach\nThemes: resistance, protest movements, class conflict\nPolitical relevance: A profound look at ideological purity versus political pragmatism.",
+    "metadata": {
+      "movie_id": "movie_023",
+      "title": "Land and Freedom",
+      "year": 1995,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "resistance",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_023_aesthetic",
+    "movie_id": "movie_023",
+    "chunk_type": "aesthetic",
+    "text": "Title: Land and Freedom\nYear: 1995\nDirector: Ken Loach\nTone: raw, confrontational, bleak\nReview: A moving and intellectually honest look at a forgotten struggle.",
+    "metadata": {
+      "movie_id": "movie_023",
+      "title": "Land and Freedom",
+      "year": 1995,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "resistance",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "confrontational",
+        "bleak"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_023_availability",
+    "movie_id": "movie_023",
+    "chunk_type": "availability",
+    "text": "Title: Land and Freedom\nAvailability: BFI (UK) - available",
+    "metadata": {
+      "movie_id": "movie_023",
+      "title": "Land and Freedom",
+      "year": 1995,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "resistance",
+        "protest movements",
+        "class conflict"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_024_identity",
+    "movie_id": "movie_024",
+    "chunk_type": "identity",
+    "text": "Title: The Official Story\nYear: 1985\nDirector: Luis Puenzo\nGenres: Historical Drama, Drama\nThemes: political imprisonment, institutional violence, corruption\nSynopsis: A mother discovers her adopted child was taken from political prisoners.",
+    "metadata": {
+      "movie_id": "movie_024",
+      "title": "The Official Story",
+      "year": 1985,
+      "director": "Luis Puenzo",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_024_political",
+    "movie_id": "movie_024",
+    "chunk_type": "political",
+    "text": "Title: The Official Story\nYear: 1985\nDirector: Luis Puenzo\nThemes: political imprisonment, institutional violence, corruption\nPolitical relevance: Examines the legacy of the 'Dirty War' and personal complicity in state crimes.",
+    "metadata": {
+      "movie_id": "movie_024",
+      "title": "The Official Story",
+      "year": 1985,
+      "director": "Luis Puenzo",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_024_aesthetic",
+    "movie_id": "movie_024",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Official Story\nYear: 1985\nDirector: Luis Puenzo\nTone: bleak, urgent, cerebral\nReview: A powerful reckoning with national trauma.",
+    "metadata": {
+      "movie_id": "movie_024",
+      "title": "The Official Story",
+      "year": 1985,
+      "director": "Luis Puenzo",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "bleak",
+        "urgent",
+        "cerebral"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_024_availability",
+    "movie_id": "movie_024",
+    "chunk_type": "availability",
+    "text": "Title: The Official Story\nAvailability: Netflix (Global) - available",
+    "metadata": {
+      "movie_id": "movie_024",
+      "title": "The Official Story",
+      "year": 1985,
+      "director": "Luis Puenzo",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "political imprisonment",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_025_identity",
+    "movie_id": "movie_025",
+    "chunk_type": "identity",
+    "text": "Title: If....\nYear: 1968\nDirector: Lindsay Anderson\nGenres: Social Drama, Arthouse\nThemes: resistance, authoritarianism, class conflict\nSynopsis: Students at a boarding school stage a violent revolt.",
+    "metadata": {
+      "movie_id": "movie_025",
+      "title": "If....",
+      "year": 1968,
+      "director": "Lindsay Anderson",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "class conflict"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_025_political",
+    "movie_id": "movie_025",
+    "chunk_type": "political",
+    "text": "Title: If....\nYear: 1968\nDirector: Lindsay Anderson\nThemes: resistance, authoritarianism, class conflict\nPolitical relevance: Captures the spirit of the 1968 counter-culture and anti-establishment movements.",
+    "metadata": {
+      "movie_id": "movie_025",
+      "title": "If....",
+      "year": 1968,
+      "director": "Lindsay Anderson",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "class conflict"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_025_aesthetic",
+    "movie_id": "movie_025",
+    "chunk_type": "aesthetic",
+    "text": "Title: If....\nYear: 1968\nDirector: Lindsay Anderson\nTone: confrontational, poetic, urgent\nReview: A wild, anarchic masterpiece.",
+    "metadata": {
+      "movie_id": "movie_025",
+      "title": "If....",
+      "year": 1968,
+      "director": "Lindsay Anderson",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "class conflict"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "confrontational",
+        "poetic",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_025_availability",
+    "movie_id": "movie_025",
+    "chunk_type": "availability",
+    "text": "Title: If....\nAvailability: BFI (UK) - available",
+    "metadata": {
+      "movie_id": "movie_025",
+      "title": "If....",
+      "year": 1968,
+      "director": "Lindsay Anderson",
+      "genres": [
+        "Social Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "class conflict"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_026_identity",
+    "movie_id": "movie_026",
+    "chunk_type": "identity",
+    "text": "Title: The Killing Fields\nYear: 1984\nDirector: Roland Joffé\nGenres: War Drama, Historical Drama\nThemes: authoritarianism, institutional violence, resistance\nSynopsis: A journalist is trapped during the Khmer Rouge takeover.",
+    "metadata": {
+      "movie_id": "movie_026",
+      "title": "The Killing Fields",
+      "year": 1984,
+      "director": "Roland Joffé",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_026_political",
+    "movie_id": "movie_026",
+    "chunk_type": "political",
+    "text": "Title: The Killing Fields\nYear: 1984\nDirector: Roland Joffé\nThemes: authoritarianism, institutional violence, resistance\nPolitical relevance: A stark look at the horrors of the Khmer Rouge regime and the human cost of war.",
+    "metadata": {
+      "movie_id": "movie_026",
+      "title": "The Killing Fields",
+      "year": 1984,
+      "director": "Roland Joffé",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_026_aesthetic",
+    "movie_id": "movie_026",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Killing Fields\nYear: 1984\nDirector: Roland Joffé\nTone: raw, bleak, urgent\nReview: Unflinching and deeply moving.",
+    "metadata": {
+      "movie_id": "movie_026",
+      "title": "The Killing Fields",
+      "year": 1984,
+      "director": "Roland Joffé",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "bleak",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_026_availability",
+    "movie_id": "movie_026",
+    "chunk_type": "availability",
+    "text": "Title: The Killing Fields\nAvailability: Prime Video (Global) - available",
+    "metadata": {
+      "movie_id": "movie_026",
+      "title": "The Killing Fields",
+      "year": 1984,
+      "director": "Roland Joffé",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_027_identity",
+    "movie_id": "movie_027",
+    "chunk_type": "identity",
+    "text": "Title: Roma\nYear: 2018\nDirector: Alfonso Cuarón\nGenres: Historical Drama, Arthouse\nThemes: class conflict, institutional violence, protest movements\nSynopsis: The life of a domestic worker during political unrest in Mexico.",
+    "metadata": {
+      "movie_id": "movie_027",
+      "title": "Roma",
+      "year": 2018,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_027_political",
+    "movie_id": "movie_027",
+    "chunk_type": "political",
+    "text": "Title: Roma\nYear: 2018\nDirector: Alfonso Cuarón\nThemes: class conflict, institutional violence, protest movements\nPolitical relevance: Explores the intersection of indigenous identity, labor, and state violence.",
+    "metadata": {
+      "movie_id": "movie_027",
+      "title": "Roma",
+      "year": 2018,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_027_aesthetic",
+    "movie_id": "movie_027",
+    "chunk_type": "aesthetic",
+    "text": "Title: Roma\nYear: 2018\nDirector: Alfonso Cuarón\nTone: meditative, poetic, documentary-like\nReview: Visually stunning and deeply personal.",
+    "metadata": {
+      "movie_id": "movie_027",
+      "title": "Roma",
+      "year": 2018,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "meditative",
+        "poetic",
+        "documentary-like"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_027_availability",
+    "movie_id": "movie_027",
+    "chunk_type": "availability",
+    "text": "Title: Roma\nAvailability: Netflix (Global) - available",
+    "metadata": {
+      "movie_id": "movie_027",
+      "title": "Roma",
+      "year": 2018,
+      "director": "Alfonso Cuarón",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "class conflict",
+        "institutional violence",
+        "protest movements"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_028_identity",
+    "movie_id": "movie_028",
+    "chunk_type": "identity",
+    "text": "Title: A Hidden Life\nYear: 2019\nDirector: Terrence Malick\nGenres: Historical Drama, Arthouse\nThemes: resistance, authoritarianism, anti-war\nSynopsis: An Austrian farmer refuses to fight for the Nazis.",
+    "metadata": {
+      "movie_id": "movie_028",
+      "title": "A Hidden Life",
+      "year": 2019,
+      "director": "Terrence Malick",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "anti-war"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_028_political",
+    "movie_id": "movie_028",
+    "chunk_type": "political",
+    "text": "Title: A Hidden Life\nYear: 2019\nDirector: Terrence Malick\nThemes: resistance, authoritarianism, anti-war\nPolitical relevance: Examines moral courage and individual resistance against a totalitarian state.",
+    "metadata": {
+      "movie_id": "movie_028",
+      "title": "A Hidden Life",
+      "year": 2019,
+      "director": "Terrence Malick",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "anti-war"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_028_aesthetic",
+    "movie_id": "movie_028",
+    "chunk_type": "aesthetic",
+    "text": "Title: A Hidden Life\nYear: 2019\nDirector: Terrence Malick\nTone: meditative, poetic, cerebral\nReview: A breathtaking testament to faith and defiance.",
+    "metadata": {
+      "movie_id": "movie_028",
+      "title": "A Hidden Life",
+      "year": 2019,
+      "director": "Terrence Malick",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "anti-war"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "meditative",
+        "poetic",
+        "cerebral"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_028_availability",
+    "movie_id": "movie_028",
+    "chunk_type": "availability",
+    "text": "Title: A Hidden Life\nAvailability: Disney+ (Global) - available",
+    "metadata": {
+      "movie_id": "movie_028",
+      "title": "A Hidden Life",
+      "year": 2019,
+      "director": "Terrence Malick",
+      "genres": [
+        "Historical Drama",
+        "Arthouse"
+      ],
+      "themes": [
+        "resistance",
+        "authoritarianism",
+        "anti-war"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_029_identity",
+    "movie_id": "movie_029",
+    "chunk_type": "identity",
+    "text": "Title: Bread and Roses\nYear: 2000\nDirector: Ken Loach\nGenres: Social Drama, Drama\nThemes: labor struggle, migration, class conflict\nSynopsis: Undocumented cleaners in LA fight for a union.",
+    "metadata": {
+      "movie_id": "movie_029",
+      "title": "Bread and Roses",
+      "year": 2000,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "migration",
+        "class conflict"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_029_political",
+    "movie_id": "movie_029",
+    "chunk_type": "political",
+    "text": "Title: Bread and Roses\nYear: 2000\nDirector: Ken Loach\nThemes: labor struggle, migration, class conflict\nPolitical relevance: Focuses on the invisibility of service workers and the power of collective labor.",
+    "metadata": {
+      "movie_id": "movie_029",
+      "title": "Bread and Roses",
+      "year": 2000,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "migration",
+        "class conflict"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_029_aesthetic",
+    "movie_id": "movie_029",
+    "chunk_type": "aesthetic",
+    "text": "Title: Bread and Roses\nYear: 2000\nDirector: Ken Loach\nTone: raw, urgent, confrontational\nReview: Compassionate and fiercely political.",
+    "metadata": {
+      "movie_id": "movie_029",
+      "title": "Bread and Roses",
+      "year": 2000,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "migration",
+        "class conflict"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "urgent",
+        "confrontational"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_029_availability",
+    "movie_id": "movie_029",
+    "chunk_type": "availability",
+    "text": "Title: Bread and Roses\nAvailability: YouTube (Global) - rent",
+    "metadata": {
+      "movie_id": "movie_029",
+      "title": "Bread and Roses",
+      "year": 2000,
+      "director": "Ken Loach",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "labor struggle",
+        "migration",
+        "class conflict"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_030_identity",
+    "movie_id": "movie_030",
+    "chunk_type": "identity",
+    "text": "Title: Man of Marble\nYear: 1977\nDirector: Andrzej Wajda\nGenres: Investigative Thriller, Arthouse\nThemes: propaganda, censorship, authoritarianism\nSynopsis: A filmmaker uncovers the truth about a former labor hero.",
+    "metadata": {
+      "movie_id": "movie_030",
+      "title": "Man of Marble",
+      "year": 1977,
+      "director": "Andrzej Wajda",
+      "genres": [
+        "Investigative Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "propaganda",
+        "censorship",
+        "authoritarianism"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_030_political",
+    "movie_id": "movie_030",
+    "chunk_type": "political",
+    "text": "Title: Man of Marble\nYear: 1977\nDirector: Andrzej Wajda\nThemes: propaganda, censorship, authoritarianism\nPolitical relevance: Exposes the manipulation of truth and history in a communist state.",
+    "metadata": {
+      "movie_id": "movie_030",
+      "title": "Man of Marble",
+      "year": 1977,
+      "director": "Andrzej Wajda",
+      "genres": [
+        "Investigative Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "propaganda",
+        "censorship",
+        "authoritarianism"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_030_aesthetic",
+    "movie_id": "movie_030",
+    "chunk_type": "aesthetic",
+    "text": "Title: Man of Marble\nYear: 1977\nDirector: Andrzej Wajda\nTone: cerebral, documentary-like, urgent\nReview: A brave look at the machinery of the state.",
+    "metadata": {
+      "movie_id": "movie_030",
+      "title": "Man of Marble",
+      "year": 1977,
+      "director": "Andrzej Wajda",
+      "genres": [
+        "Investigative Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "propaganda",
+        "censorship",
+        "authoritarianism"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "cerebral",
+        "documentary-like",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_030_availability",
+    "movie_id": "movie_030",
+    "chunk_type": "availability",
+    "text": "Title: Man of Marble\nAvailability: Eastern Movies (Global) - available",
+    "metadata": {
+      "movie_id": "movie_030",
+      "title": "Man of Marble",
+      "year": 1977,
+      "director": "Andrzej Wajda",
+      "genres": [
+        "Investigative Thriller",
+        "Arthouse"
+      ],
+      "themes": [
+        "propaganda",
+        "censorship",
+        "authoritarianism"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_031_identity",
+    "movie_id": "movie_031",
+    "chunk_type": "identity",
+    "text": "Title: Selma\nYear: 2014\nDirector: Ava DuVernay\nGenres: Historical Drama, Drama\nThemes: protest movements, institutional violence, resistance\nSynopsis: Martin Luther King's march for voting rights.",
+    "metadata": {
+      "movie_id": "movie_031",
+      "title": "Selma",
+      "year": 2014,
+      "director": "Ava DuVernay",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_031_political",
+    "movie_id": "movie_031",
+    "chunk_type": "political",
+    "text": "Title: Selma\nYear: 2014\nDirector: Ava DuVernay\nThemes: protest movements, institutional violence, resistance\nPolitical relevance: Examines the mechanics of non-violent protest and racial justice.",
+    "metadata": {
+      "movie_id": "movie_031",
+      "title": "Selma",
+      "year": 2014,
+      "director": "Ava DuVernay",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_031_aesthetic",
+    "movie_id": "movie_031",
+    "chunk_type": "aesthetic",
+    "text": "Title: Selma\nYear: 2014\nDirector: Ava DuVernay\nTone: urgent, confrontational, raw\nReview: A powerful, humanized look at a historical giant.",
+    "metadata": {
+      "movie_id": "movie_031",
+      "title": "Selma",
+      "year": 2014,
+      "director": "Ava DuVernay",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "urgent",
+        "confrontational",
+        "raw"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_031_availability",
+    "movie_id": "movie_031",
+    "chunk_type": "availability",
+    "text": "Title: Selma\nAvailability: Prime Video (Global) - available",
+    "metadata": {
+      "movie_id": "movie_031",
+      "title": "Selma",
+      "year": 2014,
+      "director": "Ava DuVernay",
+      "genres": [
+        "Historical Drama",
+        "Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "institutional violence",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_032_identity",
+    "movie_id": "movie_032",
+    "chunk_type": "identity",
+    "text": "Title: Salò, or the 120 Days of Sodom\nYear: 1975\nDirector: Pier Paolo Pasolini\nGenres: Arthouse, Drama\nThemes: authoritarianism, institutional violence, corruption\nSynopsis: Fascists kidnap teenagers for sadistic rituals.",
+    "metadata": {
+      "movie_id": "movie_032",
+      "title": "Salò, or the 120 Days of Sodom",
+      "year": 1975,
+      "director": "Pier Paolo Pasolini",
+      "genres": [
+        "Arthouse",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_032_political",
+    "movie_id": "movie_032",
+    "chunk_type": "political",
+    "text": "Title: Salò, or the 120 Days of Sodom\nYear: 1975\nDirector: Pier Paolo Pasolini\nThemes: authoritarianism, institutional violence, corruption\nPolitical relevance: A controversial critique of fascism and the 'banality of evil'.",
+    "metadata": {
+      "movie_id": "movie_032",
+      "title": "Salò, or the 120 Days of Sodom",
+      "year": 1975,
+      "director": "Pier Paolo Pasolini",
+      "genres": [
+        "Arthouse",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_032_aesthetic",
+    "movie_id": "movie_032",
+    "chunk_type": "aesthetic",
+    "text": "Title: Salò, or the 120 Days of Sodom\nYear: 1975\nDirector: Pier Paolo Pasolini\nTone: bleak, confrontational, raw\nReview: Unbearable for many, but a profound statement.",
+    "metadata": {
+      "movie_id": "movie_032",
+      "title": "Salò, or the 120 Days of Sodom",
+      "year": 1975,
+      "director": "Pier Paolo Pasolini",
+      "genres": [
+        "Arthouse",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "bleak",
+        "confrontational",
+        "raw"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_032_availability",
+    "movie_id": "movie_032",
+    "chunk_type": "availability",
+    "text": "Title: Salò, or the 120 Days of Sodom\nAvailability: Criterion (US) - available",
+    "metadata": {
+      "movie_id": "movie_032",
+      "title": "Salò, or the 120 Days of Sodom",
+      "year": 1975,
+      "director": "Pier Paolo Pasolini",
+      "genres": [
+        "Arthouse",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_033_identity",
+    "movie_id": "movie_033",
+    "chunk_type": "identity",
+    "text": "Title: 12 Years a Slave\nYear: 2013\nDirector: Steve McQueen\nGenres: Historical Drama, Social Drama\nThemes: institutional violence, class conflict, resistance\nSynopsis: A free man is kidnapped and sold into slavery.",
+    "metadata": {
+      "movie_id": "movie_033",
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "director": "Steve McQueen",
+      "genres": [
+        "Historical Drama",
+        "Social Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "resistance"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_033_political",
+    "movie_id": "movie_033",
+    "chunk_type": "political",
+    "text": "Title: 12 Years a Slave\nYear: 2013\nDirector: Steve McQueen\nThemes: institutional violence, class conflict, resistance\nPolitical relevance: A foundational film for understanding the systemic roots of racism.",
+    "metadata": {
+      "movie_id": "movie_033",
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "director": "Steve McQueen",
+      "genres": [
+        "Historical Drama",
+        "Social Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "resistance"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_033_aesthetic",
+    "movie_id": "movie_033",
+    "chunk_type": "aesthetic",
+    "text": "Title: 12 Years a Slave\nYear: 2013\nDirector: Steve McQueen\nTone: raw, bleak, urgent\nReview: An essential, agonizing piece of history.",
+    "metadata": {
+      "movie_id": "movie_033",
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "director": "Steve McQueen",
+      "genres": [
+        "Historical Drama",
+        "Social Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "resistance"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "bleak",
+        "urgent"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_033_availability",
+    "movie_id": "movie_033",
+    "chunk_type": "availability",
+    "text": "Title: 12 Years a Slave\nAvailability: Disney+ (Global) - available",
+    "metadata": {
+      "movie_id": "movie_033",
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "director": "Steve McQueen",
+      "genres": [
+        "Historical Drama",
+        "Social Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "resistance"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_034_identity",
+    "movie_id": "movie_034",
+    "chunk_type": "identity",
+    "text": "Title: Burn!\nYear: 1969\nDirector: Gillo Pontecorvo\nGenres: Historical Drama, War Drama\nThemes: colonialism, resistance, corruption\nSynopsis: A British agent incites a slave revolt for economic gain.",
+    "metadata": {
+      "movie_id": "movie_034",
+      "title": "Burn!",
+      "year": 1969,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "Historical Drama",
+        "War Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_034_political",
+    "movie_id": "movie_034",
+    "chunk_type": "political",
+    "text": "Title: Burn!\nYear: 1969\nDirector: Gillo Pontecorvo\nThemes: colonialism, resistance, corruption\nPolitical relevance: A classic analysis of neocolonialism and global power dynamics.",
+    "metadata": {
+      "movie_id": "movie_034",
+      "title": "Burn!",
+      "year": 1969,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "Historical Drama",
+        "War Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_034_aesthetic",
+    "movie_id": "movie_034",
+    "chunk_type": "aesthetic",
+    "text": "Title: Burn!\nYear: 1969\nDirector: Gillo Pontecorvo\nTone: cerebral, urgent, documentary-like\nReview: A brilliant analysis of the commodification of revolution.",
+    "metadata": {
+      "movie_id": "movie_034",
+      "title": "Burn!",
+      "year": 1969,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "Historical Drama",
+        "War Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "cerebral",
+        "urgent",
+        "documentary-like"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_034_availability",
+    "movie_id": "movie_034",
+    "chunk_type": "availability",
+    "text": "Title: Burn!\nAvailability: YouTube (Global) - available",
+    "metadata": {
+      "movie_id": "movie_034",
+      "title": "Burn!",
+      "year": 1969,
+      "director": "Gillo Pontecorvo",
+      "genres": [
+        "Historical Drama",
+        "War Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_035_identity",
+    "movie_id": "movie_035",
+    "chunk_type": "identity",
+    "text": "Title: V for Vendetta\nYear: 2005\nDirector: James McTeigue\nGenres: Political Thriller, Drama\nThemes: authoritarianism, resistance, propaganda\nSynopsis: A masked rebel fights a fascist future government.",
+    "metadata": {
+      "movie_id": "movie_035",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "director": "James McTeigue",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "resistance",
+        "propaganda"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_035_political",
+    "movie_id": "movie_035",
+    "chunk_type": "political",
+    "text": "Title: V for Vendetta\nYear: 2005\nDirector: James McTeigue\nThemes: authoritarianism, resistance, propaganda\nPolitical relevance: Highly influential in modern protest culture and civil disobedience movements.",
+    "metadata": {
+      "movie_id": "movie_035",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "director": "James McTeigue",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "resistance",
+        "propaganda"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_035_aesthetic",
+    "movie_id": "movie_035",
+    "chunk_type": "aesthetic",
+    "text": "Title: V for Vendetta\nYear: 2005\nDirector: James McTeigue\nTone: urgent, confrontational, paranoid\nReview: Visually arresting with a provocative message.",
+    "metadata": {
+      "movie_id": "movie_035",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "director": "James McTeigue",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "resistance",
+        "propaganda"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "urgent",
+        "confrontational",
+        "paranoid"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_035_availability",
+    "movie_id": "movie_035",
+    "chunk_type": "availability",
+    "text": "Title: V for Vendetta\nAvailability: Netflix (Global) - available",
+    "metadata": {
+      "movie_id": "movie_035",
+      "title": "V for Vendetta",
+      "year": 2005,
+      "director": "James McTeigue",
+      "genres": [
+        "Political Thriller",
+        "Drama"
+      ],
+      "themes": [
+        "authoritarianism",
+        "resistance",
+        "propaganda"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_036_identity",
+    "movie_id": "movie_036",
+    "chunk_type": "identity",
+    "text": "Title: The Wind That Shakes the Barley\nYear: 2006\nDirector: Ken Loach\nGenres: War Drama, Historical Drama\nThemes: colonialism, resistance, class conflict\nSynopsis: Brothers fight for Irish independence and then civil war.",
+    "metadata": {
+      "movie_id": "movie_036",
+      "title": "The Wind That Shakes the Barley",
+      "year": 2006,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "class conflict"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_036_political",
+    "movie_id": "movie_036",
+    "chunk_type": "political",
+    "text": "Title: The Wind That Shakes the Barley\nYear: 2006\nDirector: Ken Loach\nThemes: colonialism, resistance, class conflict\nPolitical relevance: Explores the transition from national liberation to ideological conflict.",
+    "metadata": {
+      "movie_id": "movie_036",
+      "title": "The Wind That Shakes the Barley",
+      "year": 2006,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "class conflict"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_036_aesthetic",
+    "movie_id": "movie_036",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Wind That Shakes the Barley\nYear: 2006\nDirector: Ken Loach\nTone: raw, bleak, poetic\nReview: Beautifully shot and emotionally shattering.",
+    "metadata": {
+      "movie_id": "movie_036",
+      "title": "The Wind That Shakes the Barley",
+      "year": 2006,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "class conflict"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "bleak",
+        "poetic"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_036_availability",
+    "movie_id": "movie_036",
+    "chunk_type": "availability",
+    "text": "Title: The Wind That Shakes the Barley\nAvailability: MUBI (EU) - available",
+    "metadata": {
+      "movie_id": "movie_036",
+      "title": "The Wind That Shakes the Barley",
+      "year": 2006,
+      "director": "Ken Loach",
+      "genres": [
+        "War Drama",
+        "Historical Drama"
+      ],
+      "themes": [
+        "colonialism",
+        "resistance",
+        "class conflict"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_037_identity",
+    "movie_id": "movie_037",
+    "chunk_type": "identity",
+    "text": "Title: M\nYear: 1931\nDirector: Fritz Lang\nGenres: Arthouse, Investigative Thriller\nThemes: authoritarianism, institutional violence, corruption\nSynopsis: A city hunts a serial killer through police and mobs.",
+    "metadata": {
+      "movie_id": "movie_037",
+      "title": "M",
+      "year": 1931,
+      "director": "Fritz Lang",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_037_political",
+    "movie_id": "movie_037",
+    "chunk_type": "political",
+    "text": "Title: M\nYear: 1931\nDirector: Fritz Lang\nThemes: authoritarianism, institutional violence, corruption\nPolitical relevance: A critique of the failing Weimar Republic and the rise of mob justice.",
+    "metadata": {
+      "movie_id": "movie_037",
+      "title": "M",
+      "year": 1931,
+      "director": "Fritz Lang",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_037_aesthetic",
+    "movie_id": "movie_037",
+    "chunk_type": "aesthetic",
+    "text": "Title: M\nYear: 1931\nDirector: Fritz Lang\nTone: tense, paranoid, documentary-like\nReview: A timeless masterpiece of social commentary.",
+    "metadata": {
+      "movie_id": "movie_037",
+      "title": "M",
+      "year": 1931,
+      "director": "Fritz Lang",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "tense",
+        "paranoid",
+        "documentary-like"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_037_availability",
+    "movie_id": "movie_037",
+    "chunk_type": "availability",
+    "text": "Title: M\nAvailability: Criterion (US) - available",
+    "metadata": {
+      "movie_id": "movie_037",
+      "title": "M",
+      "year": 1931,
+      "director": "Fritz Lang",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "authoritarianism",
+        "institutional violence",
+        "corruption"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_038_identity",
+    "movie_id": "movie_038",
+    "chunk_type": "identity",
+    "text": "Title: Fruitvale Station\nYear: 2013\nDirector: Ryan Coogler\nGenres: Social Drama, Drama\nThemes: institutional violence, class conflict, protest movements\nSynopsis: The last day of Oscar Grant, killed by transit police.",
+    "metadata": {
+      "movie_id": "movie_038",
+      "title": "Fruitvale Station",
+      "year": 2013,
+      "director": "Ryan Coogler",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "protest movements"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_038_political",
+    "movie_id": "movie_038",
+    "chunk_type": "political",
+    "text": "Title: Fruitvale Station\nYear: 2013\nDirector: Ryan Coogler\nThemes: institutional violence, class conflict, protest movements\nPolitical relevance: A central film in the dialogue about systemic racism and police brutality.",
+    "metadata": {
+      "movie_id": "movie_038",
+      "title": "Fruitvale Station",
+      "year": 2013,
+      "director": "Ryan Coogler",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "protest movements"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_038_aesthetic",
+    "movie_id": "movie_038",
+    "chunk_type": "aesthetic",
+    "text": "Title: Fruitvale Station\nYear: 2013\nDirector: Ryan Coogler\nTone: raw, urgent, documentary-like\nReview: Heartbreaking and essential.",
+    "metadata": {
+      "movie_id": "movie_038",
+      "title": "Fruitvale Station",
+      "year": 2013,
+      "director": "Ryan Coogler",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "protest movements"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "raw",
+        "urgent",
+        "documentary-like"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_038_availability",
+    "movie_id": "movie_038",
+    "chunk_type": "availability",
+    "text": "Title: Fruitvale Station\nAvailability: Prime Video (US) - available",
+    "metadata": {
+      "movie_id": "movie_038",
+      "title": "Fruitvale Station",
+      "year": 2013,
+      "director": "Ryan Coogler",
+      "genres": [
+        "Social Drama",
+        "Drama"
+      ],
+      "themes": [
+        "institutional violence",
+        "class conflict",
+        "protest movements"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_039_identity",
+    "movie_id": "movie_039",
+    "chunk_type": "identity",
+    "text": "Title: Caché\nYear: 2005\nDirector: Michael Haneke\nGenres: Arthouse, Investigative Thriller\nThemes: colonialism, surveillance, censorship\nSynopsis: A family is terrorized by anonymous surveillance tapes.",
+    "metadata": {
+      "movie_id": "movie_039",
+      "title": "Caché",
+      "year": 2005,
+      "director": "Michael Haneke",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "surveillance",
+        "censorship"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_039_political",
+    "movie_id": "movie_039",
+    "chunk_type": "political",
+    "text": "Title: Caché\nYear: 2005\nDirector: Michael Haneke\nThemes: colonialism, surveillance, censorship\nPolitical relevance: Explores how historical violence and national guilt haunt the present.",
+    "metadata": {
+      "movie_id": "movie_039",
+      "title": "Caché",
+      "year": 2005,
+      "director": "Michael Haneke",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "surveillance",
+        "censorship"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_039_aesthetic",
+    "movie_id": "movie_039",
+    "chunk_type": "aesthetic",
+    "text": "Title: Caché\nYear: 2005\nDirector: Michael Haneke\nTone: tense, cerebral, meditative\nReview: A masterfully uneasy psychological thriller.",
+    "metadata": {
+      "movie_id": "movie_039",
+      "title": "Caché",
+      "year": 2005,
+      "director": "Michael Haneke",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "surveillance",
+        "censorship"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "tense",
+        "cerebral",
+        "meditative"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_039_availability",
+    "movie_id": "movie_039",
+    "chunk_type": "availability",
+    "text": "Title: Caché\nAvailability: MUBI (EU) - available",
+    "metadata": {
+      "movie_id": "movie_039",
+      "title": "Caché",
+      "year": 2005,
+      "director": "Michael Haneke",
+      "genres": [
+        "Arthouse",
+        "Investigative Thriller"
+      ],
+      "themes": [
+        "colonialism",
+        "surveillance",
+        "censorship"
+      ],
+      "chunk_type": "availability"
+    }
+  },
+  {
+    "chunk_id": "movie_040_identity",
+    "movie_id": "movie_040",
+    "chunk_type": "identity",
+    "text": "Title: The Baader Meinhof Complex\nYear: 2008\nDirector: Uli Edel\nGenres: Political Thriller, Historical Drama\nThemes: protest movements, resistance, institutional violence\nSynopsis: The rise and fall of West German militant groups.",
+    "metadata": {
+      "movie_id": "movie_040",
+      "title": "The Baader Meinhof Complex",
+      "year": 2008,
+      "director": "Uli Edel",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "identity"
+    }
+  },
+  {
+    "chunk_id": "movie_040_political",
+    "movie_id": "movie_040",
+    "chunk_type": "political",
+    "text": "Title: The Baader Meinhof Complex\nYear: 2008\nDirector: Uli Edel\nThemes: protest movements, resistance, institutional violence\nPolitical relevance: Examines the limits of political radicalism and the state's response to terrorism.",
+    "metadata": {
+      "movie_id": "movie_040",
+      "title": "The Baader Meinhof Complex",
+      "year": 2008,
+      "director": "Uli Edel",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "political"
+    }
+  },
+  {
+    "chunk_id": "movie_040_aesthetic",
+    "movie_id": "movie_040",
+    "chunk_type": "aesthetic",
+    "text": "Title: The Baader Meinhof Complex\nYear: 2008\nDirector: Uli Edel\nTone: urgent, raw, tense\nReview: A thrilling and provocative historical epic.",
+    "metadata": {
+      "movie_id": "movie_040",
+      "title": "The Baader Meinhof Complex",
+      "year": 2008,
+      "director": "Uli Edel",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "aesthetic",
+      "tone": [
+        "urgent",
+        "raw",
+        "tense"
+      ]
+    }
+  },
+  {
+    "chunk_id": "movie_040_availability",
+    "movie_id": "movie_040",
+    "chunk_type": "availability",
+    "text": "Title: The Baader Meinhof Complex\nAvailability: Netflix (Germany) - available",
+    "metadata": {
+      "movie_id": "movie_040",
+      "title": "The Baader Meinhof Complex",
+      "year": 2008,
+      "director": "Uli Edel",
+      "genres": [
+        "Political Thriller",
+        "Historical Drama"
+      ],
+      "themes": [
+        "protest movements",
+        "resistance",
+        "institutional violence"
+      ],
+      "chunk_type": "availability"
+    }
+  }
+]
