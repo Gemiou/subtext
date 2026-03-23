@@ -1,4 +1,4 @@
-from typing import Any
+from typing import Any, Literal
 
 from pydantic import BaseModel, Field
 
@@ -6,7 +6,7 @@ from pydantic import BaseModel, Field
 class AvailabilityEntry(BaseModel):
     platform: str
     region: str
-    status: str
+    status: Literal["available", "unavailable"]
     url: str | None = None
 
 
@@ -31,6 +31,6 @@ class MovieRecord(BaseModel):
 class MovieChunk(BaseModel):
     chunk_id: str
     movie_id: str
-    chunk_type: str
+    chunk_type: Literal["identity", "political", "aesthetic", "availability"]
     text: str
     metadata: dict[str, Any] = Field(default_factory=dict)
