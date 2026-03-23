@@ -1,0 +1,80 @@
+[
+  {
+    "id": "movie_001",
+    "title": "Z",
+    "year": 1969,
+    "director": "Costa-Gavras",
+    "countries": ["France", "Algeria"],
+    "genres": ["Political Thriller", "Drama"],
+    "themes": ["authoritarianism", "institutional violence", "corruption"],
+    "tone": ["urgent", "tense", "investigative"],
+    "short_synopsis": "A magistrate investigates the assassination of a political activist and uncovers a web of state complicity.",
+    "long_synopsis": "After the killing of a prominent political figure, an investigation reveals the role of powerful institutions in orchestrating and covering up political violence.",
+    "political_relevance": "The film examines state repression, institutional cover-ups, and the mechanics of authoritarian power.",
+    "review_excerpt": "A blistering political thriller with procedural intensity and moral urgency.",
+    "festival_tags": ["classic", "political-cinema"],
+    "availability": [
+      {
+        "platform": "MUBI",
+        "region": "EU",
+        "status": "unknown",
+        "url": null
+      }
+    ],
+    "source_urls": [
+      "https://example.com/z"
+    ]
+  },
+  {
+    "id": "movie_002",
+    "title": "The Lives of Others",
+    "year": 2006,
+    "director": "Florian Henckel von Donnersmarck",
+    "countries": ["Germany"],
+    "genres": ["Drama", "Political Thriller"],
+    "themes": ["surveillance", "authoritarianism", "censorship"],
+    "tone": ["bleak", "tense", "cerebral"],
+    "short_synopsis": "An East German secret police officer becomes deeply involved in the lives of the artists he is assigned to surveil.",
+    "long_synopsis": "Set in East Berlin, the film explores the moral corrosion of surveillance states and the fragile resistance of intellectual and artistic life under authoritarian rule.",
+    "political_relevance": "The film is a powerful study of surveillance, censorship, and the human cost of totalitarian bureaucracy.",
+    "review_excerpt": "Measured, intelligent, and emotionally devastating in its portrait of life under surveillance.",
+    "festival_tags": ["award-winner", "modern-classic"],
+    "availability": [
+      {
+        "platform": "Prime Video",
+        "region": "EU",
+        "status": "unknown",
+        "url": null
+      }
+    ],
+    "source_urls": [
+      "https://example.com/the-lives-of-others"
+    ]
+  },
+  {
+    "id": "movie_003",
+    "title": "Sorry We Missed You",
+    "year": 2019,
+    "director": "Ken Loach",
+    "countries": ["United Kingdom", "France", "Belgium"],
+    "genres": ["Drama", "Social Drama"],
+    "themes": ["labor struggle", "class conflict", "precarity"],
+    "tone": ["raw", "bleak", "urgent"],
+    "short_synopsis": "A working-class family is pushed to the brink by the pressures of precarious gig-economy labor.",
+    "long_synopsis": "Ken Loach portrays the crushing structural pressures of insecure work, family strain, and economic survival in contemporary Britain.",
+    "political_relevance": "The film critiques labor precarity, neoliberal working conditions, and the erosion of dignity under modern capitalism.",
+    "review_excerpt": "A devastating social drama that turns everyday labor into political tragedy.",
+    "festival_tags": ["Cannes", "social-realism"],
+    "availability": [
+      {
+        "platform": "Cinobo",
+        "region": "GR",
+        "status": "unknown",
+        "url": null
+      }
+    ],
+    "source_urls": [
+      "https://example.com/sorry-we-missed-you"
+    ]
+  }
+]
