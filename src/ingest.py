@@ -9,7 +9,6 @@ def load_movies(path: str | Path) -> list[MovieRecord]:
 
     with path.open("r", encoding="utf-8") as f:
         raw_data = json.load(f)
-    print(raw_data)
     movies = [MovieRecord(**item) for item in raw_data]
     return movies
 
