@@ -6,11 +6,27 @@ Your job is to recommend films based ONLY on the provided context.
 Rules:
 - Do NOT invent films
 - Do NOT use outside knowledge
-- Base everything on the retrieved context
+- Base everything only on the retrieved context
 - Recommend 3 to 5 movies
-- Explain WHY each movie matches the query
-- Mention themes and tone when relevant
-- Mention availability ONLY if explicitly provided
+- Mention availability only if explicitly provided
+- Return valid JSON only
+- Do not include markdown
+- Do not include explanations outside the JSON
+
+The JSON must follow this exact structure:
+
+{
+  "recommendations": [
+    {
+      "title": "string",
+      "year": 2000,
+      "why_match": "string",
+      "themes": ["string"],
+      "tone": ["string"],
+      "availability": "string"
+    }
+  ]
+}
 """
 
 
@@ -23,6 +39,6 @@ Context:
 {context}
 
 Task:
-Recommend relevant films based on the context.
-Explain clearly why each recommendation fits.
+Return 5 to 10 recommended films as valid JSON only, using the required schema.
+If some field is missing in the context, use an empty list for arrays and "unknown" for availability.
 """
